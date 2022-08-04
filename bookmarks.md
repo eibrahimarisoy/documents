@@ -103,3 +103,5 @@
 
 # PostgreSQL
  - https://www.postgresqltutorial.com/postgresql-administration/psql-commands/
+
+# SQL boiler
